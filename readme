@@ -1,0 +1,3 @@
+plot3d interpolates and plots existing 3D data in MATLAB. The following description also appears in the function description.
+
+Plotter is the function to be plotted. xMin in the minimum. xStep is the step between them. xMax is the max. Same for y. startX,Y is the starting index. Not used yet, but they may be necessary in the future. x,y,z lab are labels. scaleR is the scaling factor for interp - higher is more interpolation. fignum is figure number. fontSize is fontsize. Returns fig handle as hFig, surf handle as hSurf
